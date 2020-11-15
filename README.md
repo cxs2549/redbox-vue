@@ -1,4 +1,4 @@
-# reddit-vue
+# redbox-vue
 
 ## Project setup
 ```
